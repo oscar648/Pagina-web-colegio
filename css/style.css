@@ -1264,7 +1264,7 @@ textarea {
 /*  5. Choose CSS
 /*----------------------------------------*/
 .choose-area{
-    background: url(../img/choose/choose-bd.jpg);
+
     background-repeat: no-repeat;
     background-size: cover;
     background-attachment: fixed;
@@ -1287,7 +1287,7 @@ textarea {
     width: 293px;
     height: 506px;
     content: "";
-    background: url(../img/choose/choose.png);
+     background: url(../img/choose/imagen.png);   
     background-repeat: no-repeat;
     z-index: 1;
 }
@@ -1792,7 +1792,7 @@ textarea {
 /*  8. Testimonial CSS
 /*----------------------------------------*/
 .testimonial-area{
-    background: url(../img/testimonial/testimonial-bg.jpg);
+  /* -- elimine el url --*/
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center center;
