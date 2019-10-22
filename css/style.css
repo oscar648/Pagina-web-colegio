@@ -1287,7 +1287,7 @@ textarea {
     width: 293px;
     height: 506px;
     content: "";
-     background: url(../img/choose/imagen.png);   
+     background: url(../img/choose/imagen.png);
     background-repeat: no-repeat;
     z-index: 1;
 }
@@ -1403,7 +1403,6 @@ textarea {
 .course-img a:hover::after, .course-img:hover .course-hover{opacity: 1}
 .courses-area.two{
     position: relative;
-    background: url(../img/course/course-bg.jpg);
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center center;
